@@ -1,0 +1,16 @@
+let workers = [{
+    "imie": "Kinga ",
+    "nazwisko": "Korycka",
+    "tel": 724003880,
+    "email": "kingakor13@gmail.com"
+}, {
+    "imie": "Adam",
+    "nazwisko": "Kowalski",
+    "tel": 789654123,
+    "email": "adam@gmail.com"
+}, {
+    "imie": "Jacek",
+    "nazwisko": "Nowak",
+    "tel": 456987456,
+    "email": "jacek@gmail.com"
+}]
